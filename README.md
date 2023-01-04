@@ -1,4 +1,4 @@
-# :electron: Computational-Biology 1 :pill: 
+#  Computational Biology 1 :pill: :desktop_computer: :electron:
 
 :wave: we make in this project : 
 ## **:one: Bovine serum albumin(target-decoy and spectrum alignment) :**
